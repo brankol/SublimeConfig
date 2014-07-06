@@ -13,6 +13,9 @@
 		"LineEndings",
 		"Modific",
 		"PHP-Twig",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
 		"Theme - Soda"
 	]
 }
