@@ -53,7 +53,8 @@
 		"CVS",
 		"node_modules",
 		"bower_components",
-		".tmp"
+		".tmp",
+		".sass-cache"
 	],
 	"font_face": "Consolas",
 	"font_size": 12,
