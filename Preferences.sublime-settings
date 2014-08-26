@@ -95,9 +95,11 @@
 		"Go"
 	],
 	"index_files": true,
+	"match_brackets": true,
 	"match_brackets_angle": true,
 	"remember_open_files": true,
 	"shift_tab_unindent": false,
+	"show_encoding": true,
 	"show_line_endings": true,
 	"soda_folder_icons": true,
 	"tab_size": 4,
